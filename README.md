@@ -5,3 +5,6 @@ _An application which is designed to track record on individual crop on the basi
 **HOW CAN CROPDOC DO SO?**
 
 _CropDoc will work with a device which will run on 3.7 V rechargeable battery which will be buried underground to check for soil moisture, and give information regarding the present temperature, humidity, wind speed  and climatic variations in the local regions with the help of GPS module. The device will be accessed through CropDoc where both of them will be connected via Bluetooth connection. The device will remain in stand-by upto 27 days on a single charge and give the information in CropDoc._
+
+**DATASET**
+https://www.kaggle.com/datasets/moltean/fruits

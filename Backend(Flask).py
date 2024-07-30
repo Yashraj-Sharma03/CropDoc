@@ -5,7 +5,7 @@ import numpy as np
 app = Flask(__name__)
 
 # Load your pre-trained model
-model = tf.keras.models.load_model('path_to_your_model.h5')
+model = tf.keras.models.load_model('path_to_the_model.h5')
 
 @app.route('/predict', methods=['POST'])
 def predict():

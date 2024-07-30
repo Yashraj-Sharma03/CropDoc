@@ -1,4 +1,4 @@
-**WHAT IS CROPDOC:**
+**WHAT IS CROPDOC:**\n
 _An application which is designed to track record on individual crop on the basis of climatic variation, soil moisture, temperature variations affecting the crop growth and reguular watering of them. This application will not only keep tracking upon the crops but it will also build a community group amongst the farmers as well as the researchers which can make the platform more interactive and user friendly. Moreover, the users can come across various knowledgable facts regarding crop monitoring as well as the factors affecting their growth. CropDoc will also have a marketplace section for the users to explore different fertilizers, pesticides and other nutrients required for the crop growth and a large section of crop seedlings so that they can start exploring the field of agriculture and provide their  contribution._ 
 
 **HOW CAN CROPDOC DO SO?**
